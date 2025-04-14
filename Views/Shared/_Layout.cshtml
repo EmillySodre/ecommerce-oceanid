@@ -1,0 +1,147 @@
+﻿
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Home Page</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ExemploProjeto.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    <header>
+        <div class="header1">
+            <button class="hamburger d-md-none" onclick="toggleMobileMenu()">
+                <img src="~/img/menuBurguer-img.png" alt="menu" style="width: 30px; height: 30px;" />
+            </button>
+            <!-- Ícone da lupa (mobile) -->
+            <img id="lupa-mobile" class="icons-header mobile-only" src="~/img/pesq-icon.png" alt="pesquisar" />
+
+            <!-- Campo de busca com lupa (desktop) -->
+            <pesq-holder class="desktop-only">
+                <img class="icons-header" src="~/img/pesq-icon.png" alt="pesquisar" />
+                <input type="search" name="pesquisar" id="pesq" placeholder="Pesquisar">
+            </pesq-holder>
+            <img class="logo-header" src="~/img/oceanid_logo_menor.png" alt="logo oceanid">
+            <div class="icon-holders">
+                <a href="#"><img class="icons-header" src="~/img/favs-icon.png" alt="favoritos"></a>
+                <a href="#"><img class="icons-header" src="~/img/shopping-icon.png" alt="carrinho" onclick="abrirSacola()"></a>
+                <a href="#"><img class="icons-header" src="~/img/login-icon.png" alt="login" onclick="menuCad()"></a>
+            </div>
+        </div>
+        <div id="mobileMenu" class="mobile-slide-menu">
+            <button class="close-btn" onclick="toggleMobileMenu()">&#10005;</button>
+            <a href="#">
+                <span class="icon">
+                    <img src="~/img/login-icon.png" alt="Login">
+                </span>
+                Login
+            </a>
+            <a href="#">
+                <span class="icon">
+                    <img src="~/img/shopping-icon.png" alt="Carrinho">
+                </span>
+                Carrinho
+            </a>
+            <a href="#">
+                <span class="icon">
+                    <img src="~/img/seta-icon.png" alt="Maquiagem">
+                </span>
+                Maquiagem
+            </a>
+            <a href="#">
+                <span class="icon">
+                    <img src="~/img/seta-icon.png" alt="Skin Care">
+                </span>
+                Skin Care
+            </a>
+            <a href="#">
+                <span class="icon">
+                    <img src="~/img/seta-icon.png" alt="Hair">
+                </span>
+                Hair
+            </a>
+            <a href="#">
+                <span class="icon">
+                    <img src="~/img/seta-icon.png" alt="Perfume">
+                </span>
+                Perfume
+            </a>
+            <a href="#">
+                <span class="icon">
+                    <img src="~/img/seta-icon.png" alt="Ofertas">
+                </span>
+                Ofertas
+            </a>
+            <a href="#">
+                <span class="icon">
+                    <img src="~/img/seta-icon.png" alt="Body Cream">
+                </span>
+                Body Cream
+            </a>
+            <a href="#">
+                <span class="icon">
+                    <img src="~/img/seta-icon.png" alt="Kits">
+                </span>
+                Kits
+            </a>
+        </div>
+
+        <div class="header2">
+            <a href="#">Maquiagem</a>
+            <a href="#">Skincare</a>
+            <a href="#">Cabelo</a>
+            <a href="#">Perfume</a>
+            <a href="#">Ofertas</a>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main">
+            @RenderBody() <!-- Esta linha irá renderizar o conteúdo das páginas filhas -->
+        </main>
+    </div>
+
+    <footer>
+        <!-- Formulário de cadastro -->
+        <section class="cadastro">
+            <h2>Cadastre-se</h2>
+            
+            <form asp-action="Usuarios" method="post">
+                <div asp-validation-summary="ModelOnly"></div>
+                <input  type="email" name="emailUser" id="email" class="inputUser" required>
+                <label class="label-input" for="email">E-mail</label>
+                <input type="text" placeholder="Nome" />
+                <button type="submit">Cadastrar</button>
+            </form>
+        </section>
+
+        <div class="footer-links">
+            <div class="link-column">
+                <h3>Dúvidas</h3>
+                <ul>
+                    <li class="list-duvidas"><a href="#">Política de Privacidade</a></li>
+                    <li class="list-duvidas"><a href="#">Política de Troca e Devolução</a></li>
+                    <li class="list-duvidas"><a href="#">Termos e Condições</a></li>
+                </ul>
+                <div class="atendimento">
+                    <h3>Atendimento</h3>
+                    <ul>
+                        <li>Telefone: (XX) XXXX-XXXX</li>
+                        <li>Email: contato@cliente.com.br</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-payment">
+            <h3>Formas de Pagamento</h3>
+            <span>💳</span> <span>💵</span> <span>🏦</span>
+        </div>
+        <div class="footer-social">
+            <h3>Nossas redes sociais</h3>
+            <span>📘</span> <span>🐦</span> <span>📸</span>
+        </div>
+    </footer>
+</body>
+</html>

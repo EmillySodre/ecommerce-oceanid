@@ -1,0 +1,49 @@
+﻿@model IEnumerable<prototipo1204.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.cpf)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nomeCompleto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dataNasc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.usuario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.cpf)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nomeCompleto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dataNasc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuario.idUser)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idCliente">Edit</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

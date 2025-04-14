@@ -1,0 +1,47 @@
+﻿@model prototipo1204.Models.Usuario
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Usuario</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="idUser" />
+            <div class="form-group">
+                <label asp-for="emailUser" class="control-label"></label>
+                <input asp-for="emailUser" class="form-control" />
+                <span asp-validation-for="emailUser" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="senhaUser" class="control-label"></label>
+                <input asp-for="senhaUser" class="form-control" />
+                <span asp-validation-for="senhaUser" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="telefoneUser" class="control-label"></label>
+                <input asp-for="telefoneUser" class="form-control" />
+                <span asp-validation-for="telefoneUser" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="datacad_User" class="control-label"></label>
+                <input asp-for="datacad_User" class="form-control" />
+                <span asp-validation-for="datacad_User" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
