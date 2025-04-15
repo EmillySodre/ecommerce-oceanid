@@ -1,9 +1,21 @@
 ﻿
 /*MENU CADASTRO*/
-function menuCad() {
-    const menu = document.getElementById("menu-cad");
+function menuLogin() {
+    const menu = document.getElementById("menu-login");
     menu.classList.toggle("active");
 }
+
+//POP UP DO CADASTRO
+function abrirCadastro() {
+    document.getElementById("menu-cad").classList.add("show");
+    document.getElementById("tudo-cad").style.display = "block";
+    document.getElemntById("menu-login").style.display = 'none';
+    }
+
+    function fecharCadastro() {
+     document.getElementById("menu-cad").classList.remove("show");
+    document.getElementById("overlay-cad").style.display = "none";
+    }
 
 //MENUU SACOOLAA
 function abrirSacola() {
@@ -32,7 +44,7 @@ function toggleFavorito(element) {
 
 //SENHAAA VISIVELL
 function toggleSenha() {
-    var input = document.getElementById("senha");
+    var input = document.getElementById("senhaUser");
     if (input.type === "password") {
         input.type = "text";
     } else {

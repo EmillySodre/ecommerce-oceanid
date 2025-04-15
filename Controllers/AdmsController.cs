@@ -22,8 +22,7 @@ namespace prototipo1204.Controllers
         // GET: Adms
         public async Task<IActionResult> Index()
         {
-            var oceanidDBContext = _context.Adms.Include(a => a.usuario);
-            return View(await oceanidDBContext.ToListAsync());
+            return View(await _context.Adms.ToListAsync());
         }
 
         // GET: Adms/Details/5
@@ -35,7 +34,6 @@ namespace prototipo1204.Controllers
             }
 
             var adm = await _context.Adms
-                .Include(a => a.usuario)
                 .FirstOrDefaultAsync(m => m.idAdm == id);
             if (adm == null)
             {
@@ -48,7 +46,6 @@ namespace prototipo1204.Controllers
         // GET: Adms/Create
         public IActionResult Create()
         {
-            ViewData["idUser"] = new SelectList(_context.Usuarios, "idUser", "idUser");
             return View();
         }
 
@@ -57,7 +54,7 @@ namespace prototipo1204.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("idAdm,nomeAdm,emailAdm,idUser")] Adm adm)
+        public async Task<IActionResult> Create([Bind("idAdm,nomeAdm,senhaAdm,emailAdm")] Adm adm)
         {
             if (ModelState.IsValid)
             {
@@ -65,7 +62,6 @@ namespace prototipo1204.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["idUser"] = new SelectList(_context.Usuarios, "idUser", "idUser", adm.idUser);
             return View(adm);
         }
 
@@ -82,7 +78,6 @@ namespace prototipo1204.Controllers
             {
                 return NotFound();
             }
-            ViewData["idUser"] = new SelectList(_context.Usuarios, "idUser", "idUser", adm.idUser);
             return View(adm);
         }
 
@@ -91,14 +86,15 @@ namespace prototipo1204.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("idAdm,nomeAdm,emailAdm,idUser")] Adm adm)
+        public async Task<IActionResult> Edit(int id, [Bind("idAdm,nomeAdm,senhaAdm,emailAdm")] Adm adm)
         {
             if (id != adm.idAdm)
             {
                 return NotFound();
             }
 
-            
+            if (ModelState.IsValid)
+            {
                 try
                 {
                     _context.Update(adm);
@@ -114,10 +110,9 @@ namespace prototipo1204.Controllers
                     {
                         throw;
                     }
-                
+                }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["idUser"] = new SelectList(_context.Usuarios, "idUser", "idUser", adm.idUser);
             return View(adm);
         }
 
@@ -130,7 +125,6 @@ namespace prototipo1204.Controllers
             }
 
             var adm = await _context.Adms
-                .Include(a => a.usuario)
                 .FirstOrDefaultAsync(m => m.idAdm == id);
             if (adm == null)
             {

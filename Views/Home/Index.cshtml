@@ -1,8 +1,8 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Home Page";
 }
-@model prototipo1204.Models.Usuario;
+
+@model prototipo1204.Models.Cliente;
 
 <body>
 
@@ -35,31 +35,32 @@
         </button>
     </div>
 
-    <form class="menu-cadastro" id="menu-cad" asp-controller="Usuarios" asp-action="Cadastro" method="post">
+    @*
+    asp-for="telefoneUser",asp-for="emailUser", asp-for="senhaUser"
+    *@
+
+    <form class="menu-login" id="menu-login" asp-controller="Usuarios" asp-action="Cadastro" method="post">
         <div asp-validation-summary="ModelOnly"></div>
         <div class="cad-text">
-            <p>Cadastre-se</p>
-            <img src="~/img/fechar-icon.png" alt="Fechar" onclick="menuCad()" class="icon-menu">
+            <p>Login</p>
+            <img src="~/img/fechar-icon.png" alt="Fechar" onclick="menuLogin()" class="icon-menu">
         </div>
 
         <div class="menu" id="menu">
             <div class="input-holders">
-                <input asp-for="telefoneUser" type="tel" name="telefoneUser" id="tel" class="inputUser" required>
-                <label class="label-input">Telefone</label>
-            </div>
-
-            <div class="input-holders">
-                <input asp-for="emailUser" type="email" name="emailUser" id="emailUser" class="inputUser" required>
+                <input  type="email" name="emailUser" id="emailUser" class="inputUser" required>
                 <label class="label-input" for="email">E-mail</label>
             </div>
 
             <div class="input-holders" style="position: relative;">
-                <input asp-for="senhaUser" type="password" name="senhaUser" id="senhaUser" class="inputUser" required>
+                <input type="password" name="senhaUser" id="senhaUser" class="inputUser" required>
                 <label class="label-input" for="senha">Senha</label>
                 <img src="~/img/eye-icon.png" alt="Mostrar senha" class="toggle-eye" onclick="toggleSenha()" />
             </div>
-
+            <div class="links-log">
             <a href="#">Esqueceu sua senha?</a>
+                <a href="#" onclick=" abrirCadastro()">Faça já o seu cadastro!</a>
+            </div>
         </div>
 
         <div class="cad-text2">
@@ -76,6 +77,50 @@
             </p>
         </div>
     </form>
+
+    <div class="tudo-cad" id="overlay-cad" onclick="fecharCadastro()"></div>
+
+    <!-- Formulário de cadastro (popup) -->
+    <form class="menu-cad" id="menu-cad" asp-controller="Clientes" asp-action="Cadastro" method="post">
+    
+        <div class="cad-holder">
+            <div class="cad-text">
+                <p>Cadastre-se</p>
+                <img src="~/img/fechar-icon.png" alt="Fechar" onclick="fecharCadastro()" class="icon-menu">
+            </div>
+            <div class="inputCad-holder">
+                <div class="input-holders">
+                    <input type="text" name="cpf" class="inputUser" required>
+                    <label class="label-input">Cpf</label>
+                </div>
+
+                <div class="input-holders">
+                    <input type="text" name="nomeCompleto"  class="inputUser" required>
+                    <label class="label-input">nome completo</label>
+                </div>
+
+                <div class="input-holders">
+                    <input type="date" name="dataNasc" class="inputUser" required>
+                    <label class="label-input">data de nascimento</label>
+                </div>
+
+                <div class="input-holders">
+                    <input type="email" name="emailCliente" class="inputUser" required>
+                    <label class="label-input">e-mail</label>
+                </div>
+
+                <div  style="position: relative;">
+                    <input type="password" name="senhaCliente"  class="inputUser" required>
+                    <label class="label-input" for="senha">Senha</label>
+                    <img src="~/img/eye-icon.png" alt="Mostrar senha" class="toggle-eye" onclick="toggleSenha()" />
+                </div>
+            </div>
+            <div class="btn-cad">
+                <input type="submit" value="Cadastre-se" />
+            </div>
+        </div>
+    </form>
+
 
     @if (ViewBag.SuccessMessage != null)
     {
@@ -109,7 +154,7 @@
         </div>
     </div>
 
-    
+
 
 
 

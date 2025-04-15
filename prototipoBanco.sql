@@ -18,18 +18,18 @@ create table tbAdm(
     idAdm int primary key auto_increment,
 	nomeAdm varchar(70) not null,
     senhaAdm varchar(30) not null unique,
-    emailAdm enum ('adm1@gmail.com','adm2@gmail.com','adm3@gmail.com','adm4@gmail.com','adm5@gmail.com') unique not null,
-	idUser int not null,
-	foreign key (idUser) references tbUsuario(idUser) on delete cascade
+    emailAdm enum ('adm1@gmail.com','adm2@gmail.com','adm3@gmail.com','adm4@gmail.com','adm5@gmail.com') unique not null
 );
 
 create table tbCliente (
 	idCliente int primary key auto_increment,
     cpf varchar(11) unique,
     nomeCompleto varchar(200) not null,
+    senhaCliente varchar(30) not null unique,
+    emailCliente varchar(50) not null unique,
     dataNasc date not null,
-    idUser int not null unique, 
-    foreign key (idUser) references tbUsuario(idUser) on delete cascade
+    idEnd int,
+    foreign key (idEnd) references tbEndereco(idEnd)
 );
 
   
@@ -87,12 +87,6 @@ create table tbPagamento(
 	metodoPag varchar(50) not null
 );
 
-create table tbNotaFiscal(
-	numeroNf int primary key auto_increment,
-	chaveacessoNf char(44) not null unique,
-	dataNf datetime not null,
-	valorNf decimal(10,2) not null
-);
 
 create table tbItemPedido (
     idProdutoPedido int primary key auto_increment,
@@ -106,8 +100,6 @@ create table tbItemPedido (
 
 create table tbPedido(
     idPed int primary key auto_increment,
-    numeroNf int not null,
-    foreign key (numeroNf) references tbNotaFiscal(numeroNf),
     idEnd int not null,
 	foreign key (idEnd) references tbEndereco(idEnd),
     idPag int not null,
