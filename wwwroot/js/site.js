@@ -15,7 +15,23 @@ function abrirCadastro() {
     function fecharCadastro() {
      document.getElementById("menu-cad").classList.remove("show");
     document.getElementById("overlay-cad").style.display = "none";
-    }
+}
+
+//MENSAGEEENSS POOP UP
+const popup = document.getElementById('popupLogin');
+    popup.style.display = 'block';
+
+    setTimeout(() => {
+        popup.style.display = 'none';
+    }, 5000); // 5 segundos
+
+
+const popupCad = document.getElementById('popupCad');
+    popupCad.style.display = 'block'; // Exibe o popup
+
+    setTimeout(() => {
+        popupCadastro.style.display = 'none'; // Esconde o popup após 5 segundos
+    }, 5000); // 5 segundos
 
 //MENUU SACOOLAA
 function abrirSacola() {
@@ -44,7 +60,16 @@ function toggleFavorito(element) {
 
 //SENHAAA VISIVELL
 function toggleSenha() {
-    var input = document.getElementById("senhaUser");
+    var input = document.getElementById("senhaCliente");
+    if (input.type === "password") {
+        input.type = "text";
+    } else {
+        input.type = "password";
+    }
+}
+
+function toggleSenha2() {
+    var input = document.getElementById("senhaCliente2");
     if (input.type === "password") {
         input.type = "text";
     } else {

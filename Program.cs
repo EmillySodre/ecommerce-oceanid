@@ -1,6 +1,8 @@
 using prototipo1204.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using prototipo1204.Repositorios.Interface;
+using prototipo1204.Repositorios;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +25,10 @@ builder.Services.AddHttpContextAccessor();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Injeção de dependência do repositório de login
+builder.Services.AddScoped<ILoginRepositorio, LoginRepositorio>();
+
 
 // Adicionando o serviço de sessão
 builder.Services.AddSession(options =>

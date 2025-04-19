@@ -342,6 +342,41 @@ header {
             background-color: #5bb3b0;
         }
 
+/*MENDAGEEEEM*/
+#popupCad, #popupLogin {
+    background-color: #ABDDDE;
+    color: #054154;
+    font-weight: 600;
+    font-size: 18px;
+    border: 1px solid #3e5c13;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    animation: fadeInOut 5s ease-in-out;
+}
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0;
+        top: 0;
+    }
+
+    10% {
+        opacity: 1;
+        top: 20px;
+    }
+
+    90% {
+        opacity: 1;
+        top: 20px;
+    }
+
+    100% {
+        opacity: 0;
+        top: 0;
+    }
+}
+
+
+
 
 /* -------------------- MENU DE LOGINNNN -------------------- */
 

@@ -10,7 +10,8 @@ using prototipo1204.Models;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
-
+using prototipo1204.Repositorios;
+using prototipo1204.Repositorios.Interface;
 
 
 namespace prototipo1204.Controllers
@@ -19,12 +20,17 @@ namespace prototipo1204.Controllers
     {
         private readonly oceanidDBContext _context;
         private readonly IHttpContextAccessor _httpContextAccessor;
+        private readonly ILoginRepositorio _loginRepositorio;
 
-        public ClientesController(oceanidDBContext context, IHttpContextAccessor httpcontextacessor)
+        public ClientesController(oceanidDBContext context, IHttpContextAccessor httpcontextacessor, ILoginRepositorio loginRepositorio)
         {
             _context = context;
             _httpContextAccessor = httpcontextacessor;
+            _loginRepositorio = loginRepositorio;
         }
+
+        
+
 
         // GET: Clientes
         public async Task<IActionResult> Index()
@@ -194,15 +200,34 @@ namespace prototipo1204.Controllers
             };
             //Vai logar o usuario com o HTTP usando tanto os coockies quanto a identidade do usuario
             await _httpContextAccessor.HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity), authProperties);
-
-            ViewBag.SuccessMessage = "Cadastro efetuado com sucesso!!!";
+          
+            TempData["popupCad"] = "Cadastro efetuado com sucesso!!!";
             return RedirectToAction("Index", "Home");
 
 
 
         }
 
+        [HttpPost]
+        public IActionResult Login(string emailCliente, string senhaCliente)
+        {
+            var cliente = _loginRepositorio.Login(emailCliente, senhaCliente);
 
+            if (cliente != null)
+            {
+                // Login válido
+
+                TempData["Login"] = "Bem-vindo de volta!";
+                return RedirectToAction("Index", "Home");
+
+
+            }
+
+            // Login inválido
+            TempData["Welcome"] = "E-mail ou senha inválidos";
+            return RedirectToAction("Index", "Home");
+        }
 
     }
+
 }

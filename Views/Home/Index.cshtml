@@ -39,7 +39,7 @@
     asp-for="telefoneUser",asp-for="emailUser", asp-for="senhaUser"
     *@
 
-    <form class="menu-login" id="menu-login" asp-controller="Usuarios" asp-action="Cadastro" method="post">
+    <form class="menu-login" id="menu-login" asp-controller="Clientes" asp-action="Login" method="post">
         <div asp-validation-summary="ModelOnly"></div>
         <div class="cad-text">
             <p>Login</p>
@@ -48,12 +48,12 @@
 
         <div class="menu" id="menu">
             <div class="input-holders">
-                <input  type="email" name="emailUser" id="emailUser" class="inputUser" required>
+                <input  type="email" name="emailCliente" id="emailCliente" class="inputUser" required>
                 <label class="label-input" for="email">E-mail</label>
             </div>
 
             <div class="input-holders" style="position: relative;">
-                <input type="password" name="senhaUser" id="senhaUser" class="inputUser" required>
+                <input type="password" name="senhaCliente" id="senhaCliente" class="inputUser senhaCliente" required>
                 <label class="label-input" for="senha">Senha</label>
                 <img src="~/img/eye-icon.png" alt="Mostrar senha" class="toggle-eye" onclick="toggleSenha()" />
             </div>
@@ -77,6 +77,14 @@
             </p>
         </div>
     </form>
+
+    @if (TempData["Login"] != null)
+    {
+        <div id="popupLogin" class="alert alert-success text-center shadow rounded-pill position-fixed top-0 start-50 translate-middle-x mt-3 px-5 py-3" style="z-index: 9999; display: none;">
+            @TempData["Login"]
+        </div>
+    }
+
 
     <div class="tudo-cad" id="overlay-cad" onclick="fecharCadastro()"></div>
 
@@ -109,10 +117,10 @@
                     <label class="label-input">e-mail</label>
                 </div>
 
-                <div  style="position: relative;">
-                    <input type="password" name="senhaCliente"  class="inputUser" required>
+                <div class="input-holders" style="position: relative;">
+                    <input type="password" name="senhaCliente" id="senhaCliente2" class="inputUser senhaCliente" required>
                     <label class="label-input" for="senha">Senha</label>
-                    <img src="~/img/eye-icon.png" alt="Mostrar senha" class="toggle-eye" onclick="toggleSenha()" />
+                    <img src="~/img/eye-icon.png" alt="Mostrar senha" class="toggle-eye" onclick="toggleSenha2()" />
                 </div>
             </div>
             <div class="btn-cad">
@@ -122,12 +130,13 @@
     </form>
 
 
-    @if (ViewBag.SuccessMessage != null)
+    @if (TempData["popupCad"] != null)
     {
-        <script>
-            alert('@ViewBag.SuccessMessage');
-        </script>
+        <div id="popupCad" class="alert alert-success text-center shadow rounded-pill position-fixed top-0 start-50 translate-middle-x mt-3 px-5 py-3" style="z-index: 9999; display: none;">
+            @TempData["popupCad"]
+        </div>
     }
+
 
 
 

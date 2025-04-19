@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WLaXdE/j5fdrc1xbBtoCKN67hNQmBp90hQHewPBc69E=",
+  "Hash": "TirBI2vwMdF2w0FvuiIj5qg79RyTNcjZjfQBUC656+w=",
   "Source": "prototipo1204",
   "BasePath": "_content/prototipo1204",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "prototipo1204\\wwwroot",
       "Source": "prototipo1204",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\bundle\\prototipo1204.styles.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\bundle\\prototipo1204.styles.css",
       "SourceId": "prototipo1204",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "prototipo1204.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\bundle\\prototipo1204.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\bundle\\prototipo1204.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\prototipo1204.bundle.scp.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\prototipo1204.bundle.scp.css",
       "SourceId": "prototipo1204",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "prototipo1204.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\prototipo1204.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\prototipo1204.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\css\\site.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\favicon.ico",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\bg-footer.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\bg-footer.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/bg-footer.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg-footer.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\1.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\1.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/carrossel/1.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carrossel\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\2.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\2.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/carrossel/2.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carrossel\\2.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\3.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\3.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/carrossel/3.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carrossel\\3.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\4.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\4.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/carrossel/4.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carrossel\\4.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\eye-icon.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\eye-icon.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/eye-icon.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\eye-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\favs-icon.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\favs-icon.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/favs-icon.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favs-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\favsP-icon.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\favsP-icon.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/favsP-icon.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favsP-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\fechar-icon.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\fechar-icon.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/fechar-icon.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fechar-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\icon-shopping-prod.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icon-shopping-prod.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/icon-shopping-prod.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon-shopping-prod.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\img1.jpg",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\img1.jpg",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/img1.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\img2.jpg",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\img2.jpg",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/img2.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\img3.jpg",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\img3.jpg",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/img3.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\login-icon.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\login-icon.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/login-icon.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\login-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\logout.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\logout.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/logout.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logout.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\menuBurguer-img.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\menuBurguer-img.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/menuBurguer-img.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menuBurguer-img.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\oceanid_logo.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\oceanid_logo.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/oceanid_logo.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\oceanid_logo.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\oceanid_logo_menor.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\oceanid_logo_menor.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/oceanid_logo_menor.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\oceanid_logo_menor.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\pesq-icon.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\pesq-icon.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/pesq-icon.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pesq-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\dior.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\dior.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom liquido/dior.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom liquido\\dior.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\fenty.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\fenty.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom liquido/fenty.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom liquido\\fenty.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\franciny.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\franciny.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom liquido/franciny.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom liquido\\franciny.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\marimaria.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\marimaria.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom liquido/marimaria.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom liquido\\marimaria.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\melu.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\melu.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom liquido/melu.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom liquido\\melu.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\nars.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\nars.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom liquido/nars.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom liquido\\nars.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\rarebeauty.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\rarebeauty.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom liquido/rarebeauty.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom liquido\\rarebeauty.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom liquido\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom liquido/Thumbs.db",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom liquido\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\avon.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\avon.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom/avon.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom\\avon.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\fenty.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\fenty.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom/fenty.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom\\fenty.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\givanchy.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\givanchy.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom/givanchy.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom\\givanchy.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\nars.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\nars.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom/nars.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom\\nars.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\quemdisseberenice.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\quemdisseberenice.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom/quemdisseberenice.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom\\quemdisseberenice.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\rarebeauty.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\rarebeauty.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom/rarebeauty.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom\\rarebeauty.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\batom\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/batom/Thumbs.db",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\batom\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\fenty.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\fenty.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/gloss/fenty.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\gloss\\fenty.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\fran.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\fran.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/gloss/fran.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\gloss\\fran.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\fran2.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\fran2.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/gloss/fran2.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\gloss\\fran2.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\mari2.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\mari2.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/gloss/mari2.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\gloss\\mari2.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\marimaria.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\marimaria.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/gloss/marimaria.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\gloss\\marimaria.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\melu.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\melu.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/gloss/melu.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\gloss\\melu.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\nars.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\nars.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/gloss/nars.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\gloss\\nars.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\rarebeauty.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\rarebeauty.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/gloss/rarebeauty.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\gloss\\rarebeauty.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\gloss\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/gloss/Thumbs.db",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\gloss\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\givanchy.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\givanchy.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/lapis de boca/givanchy.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\lapis de boca\\givanchy.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\mac.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\mac.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/lapis de boca/mac.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\lapis de boca\\mac.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\nars.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\nars.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/lapis de boca/nars.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\lapis de boca\\nars.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\natura.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\natura.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/lapis de boca/natura.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\lapis de boca\\natura.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lapis de boca\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/lapis de boca/Thumbs.db",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\lapis de boca\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lip balm\\balm.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lip balm\\balm.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/lip balm/balm.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\lip balm\\balm.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lip balm\\fran.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lip balm\\fran.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/lip balm/fran.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\lip balm\\fran.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lip balm\\rarebeauty.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\labios\\lip balm\\rarebeauty.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/labios/lip balm/rarebeauty.png",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\labios\\lip balm\\rarebeauty.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\anastacia.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\anastacia.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/cilios postiço/anastacia.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\cilios postiço\\anastacia.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\ciliosthat.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\ciliosthat.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/cilios postiço/ciliosthat.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\cilios postiço\\ciliosthat.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\marimaria.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\marimaria.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/cilios postiço/marimaria.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\cilios postiço\\marimaria.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\preco].txt",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\preco].txt",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/cilios postiço/preco].txt",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\cilios postiço\\preco].txt"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\cilios postiço\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/cilios postiço/Thumbs.db",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\cilios postiço\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\coloridomelu.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\coloridomelu.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/coloridomelu.png",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\coloridomelu.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\fentypreto.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\fentypreto.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/fentypreto.png",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\fentypreto.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\franpreto.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\franpreto.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/franpreto.png",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\franpreto.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\melupreto.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\melupreto.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/melupreto.png",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\melupreto.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\narspreto.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\narspreto.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/narspreto.png",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\narspreto.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\pratafenty.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\pratafenty.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/pratafenty.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\pratafenty.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\preco.txt",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\preco.txt",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/preco.txt",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\preco.txt"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\rarepreto.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\rarepreto.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/rarepreto.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\rarepreto.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\rosamelu.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\rosamelu.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/rosamelu.png",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\rosamelu.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\delineador\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/delineador/Thumbs.db",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\delineador\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\azulnars.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\azulnars.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/lapis de olho/azulnars.png",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\lapis de olho\\azulnars.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\brancomelu.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\brancomelu.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/lapis de olho/brancomelu.png",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\lapis de olho\\brancomelu.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\fentylapis.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\fentylapis.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/lapis de olho/fentylapis.png",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\lapis de olho\\fentylapis.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\franlapis.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\franlapis.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/lapis de olho/franlapis.png",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\lapis de olho\\franlapis.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\lapisrare.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\lapisrare.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/lapis de olho/lapisrare.png",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\lapis de olho\\lapisrare.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\marromnars.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\marromnars.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/lapis de olho/marromnars.png",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\lapis de olho\\marromnars.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\preco.txt",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\preco.txt",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/lapis de olho/preco.txt",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\lapis de olho\\preco.txt"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\lapis de olho\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/lapis de olho/Thumbs.db",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\lapis de olho\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\fentycilios.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\fentycilios.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/mascara de cilios/fentycilios.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\mascara de cilios\\fentycilios.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\fentycilios2.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\fentycilios2.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/mascara de cilios/fentycilios2.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\mascara de cilios\\fentycilios2.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\francilios.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\francilios.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/mascara de cilios/francilios.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\mascara de cilios\\francilios.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\marimaria.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\marimaria.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/mascara de cilios/marimaria.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\mascara de cilios\\marimaria.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\melu.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\melu.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/mascara de cilios/melu.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\mascara de cilios\\melu.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\melu2.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\melu2.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/mascara de cilios/melu2.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\mascara de cilios\\melu2.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\narscilios.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\narscilios.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/mascara de cilios/narscilios.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\mascara de cilios\\narscilios.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\preco.txt",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\preco.txt",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/mascara de cilios/preco.txt",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\mascara de cilios\\preco.txt"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\rarebeauty.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\mascara de cilios\\rarebeauty.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/mascara de cilios/rarebeauty.png",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\mascara de cilios\\rarebeauty.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\nars.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\nars.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/primer/nars.png",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\primer\\nars.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\preco.txt",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\preco.txt",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/primer/preco.txt",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\primer\\preco.txt"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\primerrare.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\primerrare.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/primer/primerrare.png",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\primer\\primerrare.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\primertoofaced.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\primertoofaced.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/primer/primertoofaced.png",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\primer\\primertoofaced.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\primer\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/primer/Thumbs.db",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\primer\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\fenty1.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\fenty1.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/sombra/fenty1.png",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\sombra\\fenty1.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\fenty2.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\fenty2.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/sombra/fenty2.png",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\sombra\\fenty2.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\meluroxo.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\meluroxo.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/sombra/meluroxo.png",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\sombra\\meluroxo.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\narsombra.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\narsombra.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/sombra/narsombra.png",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\sombra\\narsombra.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\sombrajellymari.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\sombrajellymari.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/sombra/sombrajellymari.png",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\sombra\\sombrajellymari.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\sombraliqrare.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\sombraliqrare.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/sombra/sombraliqrare.png",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\sombra\\sombraliqrare.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\sombranars2.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\sombranars2.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/sombra/sombranars2.png",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\sombra\\sombranars2.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\sombraspreco.txt",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\sombraspreco.txt",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/sombra/sombraspreco.txt",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\sombra\\sombraspreco.txt"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\produtos\\olhos\\sombra\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/produtos/olhos/sombra/Thumbs.db",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos\\olhos\\sombra\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\shopping-icon.png",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\shopping-icon.png",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/shopping-icon.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shopping-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\img\\Thumbs.db",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\Thumbs.db",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "img/Thumbs.db",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\js\\site.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "prototipo1204",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\",
       "BasePath": "_content/prototipo1204",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
