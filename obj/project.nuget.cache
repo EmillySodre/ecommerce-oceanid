@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fuI3iFCqWbjncF1i47OsImeMr5ql+n7KYU53KWfjTQRM/DFxGBqdJFCObtYcmi4kcodYVmwbIf5z3315i2jqmg==",
+  "dgSpecHash": "V5fpWe8L0kjea5T3kWMWRFvg2ZSHC3weGx9gdl2dP7XpWHN/0i0NxgXSVWa9JUzS+rbkuBW9j6CkweFZS9UsAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\prototipo1204.csproj",
+  "projectFilePath": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\prototipo1204.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lider\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Lider\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

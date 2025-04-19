@@ -6657,11 +6657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\prototipo1204.csproj",
+      "projectUniqueName": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\prototipo1204.csproj",
       "projectName": "prototipo1204",
-      "projectPath": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\prototipo1204.csproj",
+      "projectPath": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\prototipo1204.csproj",
       "packagesPath": "C:\\Users\\Lider\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lider\\Desktop\\ETEC\\ecommerce-oceanid\\obj\\",
+      "outputPath": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

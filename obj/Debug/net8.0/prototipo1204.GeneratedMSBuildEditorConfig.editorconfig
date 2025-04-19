@@ -17,99 +17,99 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = prototipo1204
 build_property.RootNamespace = prototipo1204
-build_property.ProjectDir = C:\Users\Lider\Desktop\ETEC\ecommerce-oceanid\
+build_property.ProjectDir = C:\Users\Lider\Desktop\ecommerce-oceanid\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Lider\Desktop\ETEC\ecommerce-oceanid
+build_property.MSBuildProjectDirectory = C:\Users\Lider\Desktop\ecommerce-oceanid
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Adms/Create.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Adms/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Adms/Delete.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Adms/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Adms/Details.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Adms/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Adms/Edit.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Adms/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Adms/Index.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Adms/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Clientes/Create.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Clientes/Delete.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Clientes/Details.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Clientes/Edit.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Clientes/Index.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Enderecoes/Create.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Enderecoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Enderecoes/Delete.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Enderecoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Enderecoes/Details.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Enderecoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Enderecoes/Edit.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Enderecoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Enderecoes/Index.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Enderecoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5kZXJlY29lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Home/Index.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Home/Privacy.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Shared/Error.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/_ViewImports.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/_ViewStart.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lider/Desktop/ETEC/ecommerce-oceanid/Views/Shared/_Layout.cshtml]
+[C:/Users/Lider/Desktop/ecommerce-oceanid/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9pbqwpll3l
