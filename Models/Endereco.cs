@@ -10,7 +10,7 @@
         public string bairro { get; set; }
         public string estado { get; set; }
         public string cidade { get; set; }
-       
+        public List<Pedido> Pedido { get; set; }
         public List<Cliente> clientes { get; set; }
     }
 }

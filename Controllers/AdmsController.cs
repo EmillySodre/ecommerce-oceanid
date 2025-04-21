@@ -7,16 +7,18 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using prototipo1204.Data;
 using prototipo1204.Models;
+using prototipo1204.Repositorios;
 
 namespace prototipo1204.Controllers
 {
     public class AdmsController : Controller
     {
         private readonly oceanidDBContext _context;
-
-        public AdmsController(oceanidDBContext context)
+        private readonly DashboardRepositorio _dashboardRepositorio;
+        public AdmsController(oceanidDBContext context, DashboardRepositorio dashboardRepositorio)
         {
             _context = context;
+            _dashboardRepositorio = dashboardRepositorio;
         }
 
         // GET: Adms
@@ -152,6 +154,18 @@ namespace prototipo1204.Controllers
         private bool AdmExists(int id)
         {
             return _context.Adms.Any(e => e.idAdm == id);
+        }
+
+        //----------------PAIIIINEEELLLL-----
+
+        public IActionResult Painel()
+        {
+            var vendasMes = _dashboardRepositorio.VendasMes();
+
+            // Passa os dados para a view
+            ViewBag.VendasMes = vendasMes;
+
+            return View();
         }
     }
 }

@@ -45,18 +45,23 @@ function fecharSacola() {
 }
 
 // FAVORITOS
-function toggleFavorito(element) {
-    event.preventDefault(); // evita que o link recarregue a página
+//CAMINHO NO JS NAO PODE TER /~
+function toggleFavorito(event, element) {
+    event.preventDefault(); // Evita o recarregamento da página
 
     var img = element.querySelector('img');
 
-    // Verifica a imagem atual e alterna para a outra
-    if (img.src.includes('~/img/favs-icon.png')) {
-        img.src = '~/img/favsP-icon.png';
+    // Caminhos corretos (sem "~")
+    var iconeNormal = "/img/favs-icon.png";
+    var iconePreenchido = "/img/favsP-icon.png";
+
+    if (img.src.includes("favsP-icon.png")) {
+        img.src = iconeNormal;
     } else {
-        img.src = '~/img/favs-icon.png';
+        img.src = iconePreenchido;
     }
 }
+
 
 //SENHAAA VISIVELL
 function toggleSenha() {

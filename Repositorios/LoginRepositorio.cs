@@ -19,5 +19,11 @@ namespace prototipo1204.Repositorios
             return _context.Clientes
                 .FirstOrDefault(c => c.emailCliente == emailCliente && c.senhaCliente == senhaCliente);
         }
+
+        public Adm LoginAdm(string emailAdm, string senhaAdm)
+        {
+            return _context.Adms
+                .FirstOrDefault(a => a.emailAdm == emailAdm && a.senhaAdm == senhaAdm);
+        }
     }
 }

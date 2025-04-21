@@ -26,9 +26,9 @@ builder.Services.AddHttpContextAccessor();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// Injeção de dependência do repositório de login
+// Injeção de dependência dos repositórios
 builder.Services.AddScoped<ILoginRepositorio, LoginRepositorio>();
-
+builder.Services.AddScoped<DashboardRepositorio>();
 
 // Adicionando o serviço de sessão
 builder.Services.AddSession(options =>

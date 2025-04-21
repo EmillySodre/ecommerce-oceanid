@@ -10,5 +10,6 @@
         public string emailCliente { get; set; }
         public int? idEnd {  get; set; }
         public Endereco? endereco {  get; set; }
+        public List<Pedido> Pedido { get; set; }
     }
 }

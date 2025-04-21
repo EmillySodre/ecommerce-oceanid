@@ -224,9 +224,19 @@ namespace prototipo1204.Controllers
             }
 
             // Login inválido
-            TempData["Welcome"] = "E-mail ou senha inválidos";
+            TempData["Login"] = "E-mail ou senha inválidos";
             return RedirectToAction("Index", "Home");
         }
+        
+        public IActionResult Logout()
+        {
+            // Remove o ID do cliente da sessão
+            HttpContext.Session.Remove("idCliente");
+
+            TempData["Login"] = "Você foi desconectado.";
+            return RedirectToAction("Index", "Home");
+        }
+
 
     }
 
