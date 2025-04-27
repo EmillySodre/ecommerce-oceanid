@@ -212,8 +212,9 @@ namespace prototipo1204.Controllers
         public IActionResult Login(string emailCliente, string senhaCliente)
         {
             var cliente = _loginRepositorio.Login(emailCliente, senhaCliente);
+ 
 
-            if (cliente != null)
+             if (cliente != null)
             {
                 // Login válido
 

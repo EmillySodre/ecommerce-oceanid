@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFFD100E-D0E8-4512-9B1C-FE84165DE646}|prototipo1204.csproj|c:\\users\\lider\\desktop\\ecommerce-oceanid\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FFFD100E-D0E8-4512-9B1C-FE84165DE646}|prototipo1204.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFFD100E-D0E8-4512-9B1C-FE84165DE646}|prototipo1204.csproj|c:\\users\\lider\\desktop\\ecommerce-oceanid\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{FFFD100E-D0E8-4512-9B1C-FE84165DE646}|prototipo1204.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFFD100E-D0E8-4512-9B1C-FE84165DE646}|prototipo1204.csproj|c:\\users\\lider\\desktop\\ecommerce-oceanid\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFFD100E-D0E8-4512-9B1C-FE84165DE646}|prototipo1204.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFFD100E-D0E8-4512-9B1C-FE84165DE646}|prototipo1204.csproj|c:\\users\\lider\\desktop\\ecommerce-oceanid\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FFFD100E-D0E8-4512-9B1C-FE84165DE646}|prototipo1204.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +30,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AQIAACMAAAAAAAAAAAAowDsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-21T02:42:02.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAKoAAAAAAAAAAAAAALAAAAAeAAAA",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAAwNQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T02:41:02.229Z",
+              "WhenOpened": "2025-04-27T00:29:45.284Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAANoCAAAAAAAAAAAYwOUCAAABAAAA",
+              "ViewState": "AQIAAM8DAAAAAAAAAAAAAO4DAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-21T02:36:42.283Z",
+              "WhenOpened": "2025-04-26T23:57:05.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-27T02:16:12.84Z",
               "EditorCaption": ""
             }
           ]

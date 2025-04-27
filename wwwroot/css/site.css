@@ -38,6 +38,8 @@ header {
     height: 60px;
 }
 
+
+
 .pesq-holder {
     display: flex;
     justify-content: start;
@@ -151,12 +153,58 @@ header {
     color: #888;
 }
 
-/* Destaques de Produtos */
-/* Destaques de Produtos */
-.destaques {
-    padding: 20px;
-    background-color: #FFFBFB;
+/*------------- MODAL DOSSS PROSUTOSS------------------- */
+
+.modal-dialog {
+    max-width: 600px; /* Largura do modal */
+    max-height: 80%; /* Altura do modal, não cobrirá todo o conteúdo */
 }
+
+.modal-content h5{
+    font-weight:550;
+    color:#054154;
+}
+.modal-body {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 450px;
+}
+
+.modal-body img{
+    width:300px;
+}
+.modal-body p{
+    font-size:16px;
+    text-align:justify;
+    margin-left:15px;
+    padding:10px;
+}
+
+  .modal-content {
+     background-color: #f6d3d7;
+ }
+
+
+.modal-footer button {
+    background-color: #ABDDDE;
+    border:none;
+    border-radius:15px;
+    color:#054154;
+}
+
+.modal-footer button:hover {
+   background-color: #ed8696;
+}
+
+
+
+
+    /* Destaques de Produtos */
+    .destaques {
+        padding: 20px;
+        background-color: #FFFBFB;
+    }
 
 /* Grid responsivo */
 .grid-produtos {
@@ -241,6 +289,9 @@ header {
         color: black;
         margin-top: 8%;
     }
+.btn-prod a:hover {
+    background-color: #EFC6D8;
+}
 
 /* Banner Promocional */
 .banner-promo {
@@ -889,18 +940,29 @@ footer {
     }
 
 
-    .footer-payment, .footer-social {
-        display: flex;
-        gap: 10px;
-        margin-top: 10px;
-    }
+.footer-payment {
+    margin-top: 10px;
+ }
 
-    .footer-payment h3, .footer-social h3 {
-        font-size: 16px;
-    }
 
-#lupa-mobile{
-    display:none;
+
+.footer-payment h3, .footer-social h3 {
+    font-size: 16px;
+}
+
+.imgPagFooter {
+    width: 50px;
+    height: 50px;
+}
+
+.imgSocialFooter{
+    width: 28px;
+    height: 28px;
+    margin-left:15px;
+}
+
+#lupa-mobile {
+    display: none;
 }
 /*RESPONSIVIDADEEE DO HEAADERR*/
 body {
@@ -912,6 +974,37 @@ body {
 .pesq-holder {
     display: flex;
     justify-content: start;
+}
+
+@media (max-width: 576px) {
+.modal-dialog {
+   width: 80%; 
+  height:50%;
+    }
+
+.modal-body {
+  flex-direction: column; 
+  height: auto; 
+    }
+
+ .modal-body img {
+    width: 70%; 
+    margin-bottom: 15px; 
+ }
+
+ .modal-body p {
+   font-size: 14px; /* Ajuste no tamanho da fonte em telas pequenas */
+  }
+
+ .modal-footer {
+   display: flex;
+  justify-content: center; /* Centraliza os botões na tela */
+    }
+
+.modal-footer button {
+ width: 100%;
+ margin-top: 10px; 
+        }
 }
 
 /* Estilos específicos para telas menores */
@@ -992,6 +1085,8 @@ body {
 }
 
 @media screen and (min-width: 768px) {
+
+
     .mobile-only {
         display: none;
     }
@@ -1034,7 +1129,35 @@ body {
     flex: 1 1 calc(25% - 20px);
 }
 
+
 @media (max-width: 768px) {
+
+.modal-dialog {
+   width: 80%; /* Modal ocupa 80% da largura da tela em tablets */
+}
+
+ .modal-body {
+   flex-direction: column;
+   height: auto;
+ }
+
+ .modal-body img {
+  width: 80%; /* Imagem ocupa 80% da largura da tela */
+  margin-bottom: 15px;
+}
+
+ .modal-body p {
+   font-size: 15px; /* Ajuste no tamanho da fonte para tablets */
+ }
+
+.modal-footer button {
+    width: 45%; /* Botões ocupam 45% da largura da tela */
+    margin-top: 10px;
+    }
+}
+
+
+
     .product-placeholder {
         flex: 1 1 calc(50% - 10px);
     }

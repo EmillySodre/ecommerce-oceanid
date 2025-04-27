@@ -1,4 +1,4 @@
-using prototipo1204.Data;
+ï»¿using prototipo1204.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using prototipo1204.Repositorios.Interface;
@@ -10,48 +10,40 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<oceanidDBContext>(options =>
     options.UseMySql(
         builder.Configuration.GetConnectionString("prototipoBanco"),
-        new MySqlServerVersion(new Version(8, 0, 31)) // Ajuste conforme sua versão do MySQL
+        new MySqlServerVersion(new Version(8, 0, 31))
     )
 );
 
-// Adicionando autenticação com cookies
+// AutenticaÃ§Ã£o com cookies
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
-        options.LoginPath = "/Home/Login"; // Caminho para a página de login
+        options.LoginPath = "/Home/Login";
     });
-// Adicionando HttpContextAccessor (necessário para acessar o contexto HTTP)
+
+// Acesso ao contexto HTTP
 builder.Services.AddHttpContextAccessor();
 
-// Add services to the container.
+// SessÃ£o
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
+// MVC
 builder.Services.AddControllersWithViews();
 
-// Injeção de dependência dos repositórios
+// RepositÃ³rios
 builder.Services.AddScoped<ILoginRepositorio, LoginRepositorio>();
 builder.Services.AddScoped<DashboardRepositorio>();
 
-// Adicionando o serviço de sessão
-builder.Services.AddSession(options =>
-{
-    options.IdleTimeout = TimeSpan.FromMinutes(30);  // Define o tempo de expiração da sessão
-    options.Cookie.HttpOnly = true;  // Aumenta a segurança
-    options.Cookie.IsEssential = true;  // Necessário para conformidade com a GDPR
-});
-
-
-
-
 var app = builder.Build();
 
-// Ativar autenticação e autorização
-app.UseAuthentication(); // Ativa a autenticação com cookies
-app.UseAuthorization();  // Ativa a autorização
-
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -60,10 +52,13 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.UseAuthorization();
+app.UseAuthentication();   // AutenticaÃ§Ã£o
+app.UseSession();          // Ativando a sessÃ£o
+app.UseAuthorization();    // AutorizaÃ§Ã£o
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+

@@ -1,4 +1,13 @@
-﻿
+﻿//CARROSEEELLL
+var carrossel = document.querySelector('#carouselExample');
+var instanciaCarrossel = new bootstrap.Carousel(carrossel, {
+    interval: 4000,
+    ride: 'carousel'
+});
+
+//QUANTIDADE DO CARRINHOOO
+
+
 /*MENU CADASTRO*/
 function menuLogin() {
     const menu = document.getElementById("menu-login");

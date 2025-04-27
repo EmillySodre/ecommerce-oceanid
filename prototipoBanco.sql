@@ -21,6 +21,8 @@ create table tbAdm(
     emailAdm enum ('adm1@gmail.com','adm2@gmail.com','adm3@gmail.com','adm4@gmail.com','adm5@gmail.com') unique not null
 );
 
+select * from tbAdm;
+
 create table tbCliente (
 	idCliente int primary key auto_increment,
     cpf varchar(11) unique,
@@ -162,17 +164,7 @@ insert into tbEndereco (cepEnd, numeroEnd, logradouro, complemento, bairro, esta
 ('50000000', 34, 'Rua do Imperador', 'Sala 2', 'Santo Antônio', 'PE', 'Recife'),
 ('29010020', 123, 'Rua Graciano Neves', 'Apto 302', 'Centro', 'ES', 'Vitória');
 
-insert into tbUsuario (emailUser, senhaUser, telefoneUser, datacad_User) values
-('joao.silva@email.com', 'senha123', '11987654321', '2023-01-15'),
-('maria.souza@email.com', 'mariA321', '21976543210', '2023-02-20'),
-('carlos.pereira@email.com', 'carlosP@1', '31987654321', '2023-03-10'),
-('ana.oliveira@email.com', 'anaOliveira2', '71987654321', '2023-01-25'),
-('pedro.alves@email.com', 'pedroA#3', '81987654321', '2023-04-05'),
-('julia.rodrigues@email.com', 'juliaR123', '61987654321', '2023-02-15'),
-('lucas.santos@email.com', 'lucasS@4', '85987654321', '2023-03-20'),
-('fernanda.lima@email.com', 'ferLima5', '61987654321', '2023-04-10'),
-('rafael.costa@email.com', 'rafaCosta6', '21987654321', '2023-01-30'),
-('amanda.martins@email.com', 'amandaM7', '11987654321', '2023-02-28');
+
 
 insert into tbAdm (nomeAdm, senhaAdm, emailAdm, idUser) VALUES
 ('Admin Master', 'AdmMaster@1', 'adm1@gmail.com', 1),

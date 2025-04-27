@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\img\\bg-footer.png"
     },
     {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\boleto-oceanid.png",
+      "PackagePath": "staticwebassets\\img\\boleto-oceanid.png"
+    },
+    {
       "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\1.png",
       "PackagePath": "staticwebassets\\img\\carrossel\\1.png"
     },
@@ -35,6 +39,14 @@
     {
       "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\carrossel\\4.png",
       "PackagePath": "staticwebassets\\img\\carrossel\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\cartao.png",
+      "PackagePath": "staticwebassets\\img\\cartao.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\dinheiro.png",
+      "PackagePath": "staticwebassets\\img\\dinheiro.png"
     },
     {
       "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\eye-icon.png",
@@ -57,6 +69,42 @@
       "PackagePath": "staticwebassets\\img\\icon-shopping-prod.png"
     },
     {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icons8-escova-de-cabelo-50.png",
+      "PackagePath": "staticwebassets\\img\\icons8-escova-de-cabelo-50.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icons8-garrafa-de-creme-64.png",
+      "PackagePath": "staticwebassets\\img\\icons8-garrafa-de-creme-64.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icons8-instagram-50.png",
+      "PackagePath": "staticwebassets\\img\\icons8-instagram-50.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icons8-maquiagem-64.png",
+      "PackagePath": "staticwebassets\\img\\icons8-maquiagem-64.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icons8-novo-64.png",
+      "PackagePath": "staticwebassets\\img\\icons8-novo-64.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icons8-perfume-50.png",
+      "PackagePath": "staticwebassets\\img\\icons8-perfume-50.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icons8-skin-care-64.png",
+      "PackagePath": "staticwebassets\\img\\icons8-skin-care-64.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icons8-tiktok-30.png",
+      "PackagePath": "staticwebassets\\img\\icons8-tiktok-30.png"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\icons8-twitter-50.png",
+      "PackagePath": "staticwebassets\\img\\icons8-twitter-50.png"
+    },
+    {
       "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\img1.jpg",
       "PackagePath": "staticwebassets\\img\\img1.jpg"
     },
@@ -67,6 +115,10 @@
     {
       "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\img3.jpg",
       "PackagePath": "staticwebassets\\img\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\kit-maquiagem.png",
+      "PackagePath": "staticwebassets\\img\\kit-maquiagem.png"
     },
     {
       "Id": "C:\\Users\\Lider\\Desktop\\ecommerce-oceanid\\wwwroot\\img\\login-icon.png",

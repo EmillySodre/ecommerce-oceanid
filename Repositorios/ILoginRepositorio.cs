@@ -6,5 +6,6 @@ namespace prototipo1204.Repositorios.Interface
     {
         Cliente Login(string emailCliente, string senhaCliente);
         Adm LoginAdm(string emailAdm, string senhaAdm);
+     
     }
 }
