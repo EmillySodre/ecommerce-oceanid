@@ -1,0 +1,113 @@
+﻿@model IEnumerable<prototipo1204.Models.Adm>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container-admin">
+    <!-- Menu lateral -->
+    <nav class="sidebar">
+        <h2>Admin</h2>
+        <ul>
+            <li><a asp-controller="Produtoes" asp-action="Index">Lista de produtos</a></li>
+            <li><a asp-controller="Clientes" asp-action="Index">Lista de clientes</a></li>
+            <li><a asp-controller="Pedidoes" asp-action="Index">Listra de pedidos</a></li>
+        </ul>
+    </nav>
+
+    <main class="dashboard">
+        <h1>Bem-vindo ao Painel de Controle</h1>
+
+        <div class="cards">
+            <div class="card">
+                <h3>Vendas do Mês</h3>
+                <p>R$ @ViewBag.VendasMes</p>
+            </div>
+        </div>
+    </main>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nomeAdm)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.senhaAdm)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.emailAdm)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nomeAdm)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.senhaAdm)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.emailAdm)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idAdm">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.idAdm">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.idAdm">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+*@
